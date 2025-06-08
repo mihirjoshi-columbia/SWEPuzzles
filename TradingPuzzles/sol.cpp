@@ -1,25 +1,23 @@
-#include <bits/stdc++>
-#include <stdio>
 #include <iostream>
 #include <string>
 
+using namespace std;
+
 class Solution {
-  using namespace std;
-  public int recordLog(int logId, int timestamp) {
-    
+public:
+
+  int recordLog(int logId, int timestamp) {
   }
 
-  public string getLogs() {
-
+  string getLogs() {
   }
 
-  public int getLogCount() {
-
+  int getLogCount() {
   }
 
-}
+};
+
 int main (int argc, char *argv[]) {
-  using namespace std;
 
   ios::sync_with_stdio(false);
   cin.tie(0);
